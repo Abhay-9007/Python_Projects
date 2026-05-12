@@ -94,7 +94,7 @@ def lib():
             print(allbiodata)
             for i in range(15):
                 if i==7:
-                    print("                                              FUCK U God...")
+                    print("                                              it didn't worked...")
                 else:
                     print("")
 
